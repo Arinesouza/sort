@@ -1,4 +1,3 @@
-import os
 import platform
 import time
 from memory_profiler import memory_usage
